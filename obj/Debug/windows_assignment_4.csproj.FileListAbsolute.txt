@@ -1,0 +1,7 @@
+C:\Users\ma hmood\source\repos\windows_assignment_4\obj\Debug\windows_assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\ma hmood\source\repos\windows_assignment_4\bin\Debug\windows_assignment_4.exe.config
+C:\Users\ma hmood\source\repos\windows_assignment_4\bin\Debug\windows_assignment_4.exe
+C:\Users\ma hmood\source\repos\windows_assignment_4\bin\Debug\windows_assignment_4.pdb
+C:\Users\ma hmood\source\repos\windows_assignment_4\obj\Debug\windows_assignment_4.exe
+C:\Users\ma hmood\source\repos\windows_assignment_4\obj\Debug\windows_assignment_4.pdb
+C:\Users\ma hmood\source\repos\windows_assignment_4\obj\Debug\windows_assignment_4.csproj.AssemblyReference.cache
